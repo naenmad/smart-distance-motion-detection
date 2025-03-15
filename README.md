@@ -2,7 +2,7 @@
 
 An Arduino-based embedded system that detects motion and measures object distance in real-time, providing visual feedback via LEDs and an OLED display. Ideal for IoT, security, or automation projects.
 
-![System Demo](https://via.placeholder.com/800x400.png?text=Project+Demo) *Replace with your project image*
+![System Demo](https://wokwi.com/projects/425389507050798081)
 
 ---
 
