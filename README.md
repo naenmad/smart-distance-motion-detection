@@ -95,3 +95,15 @@ graph TD
   J --> K
   K --> L[Delay 500ms]
   L --> C
+```
+
+---
+## 🤝 Contributing
+Feel free to fork, open issues, or submit PRs! Check the [Contributing Guide](https://contributing.md/) for details.
+
+## 📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+## Built with ❤️ by Ahmad Zulkarnaen
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/naen) | azulkarnaen@outlook.com
+
